@@ -1,4 +1,4 @@
-package com.qwertovsky.helloworld;
+package com.qwe.hw;
 
 public class HelloWorld {
 	public static void main(String[] args) {
