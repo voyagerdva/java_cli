@@ -1,4 +1,4 @@
-package com.qwertovsky.hellow;
+package com.qwertovsky.helloworld;
 
 public class HelloWorld
 {
