@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.qwertovsky.calculator.operation","l":"Adder"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.qwertovsky.calculator","l":"Calculator"}];updateSearchResults();

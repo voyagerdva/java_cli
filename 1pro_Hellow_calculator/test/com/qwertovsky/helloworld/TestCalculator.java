@@ -1,4 +1,4 @@
-package com.qwertovsky.helloworld;
+package com.qwertovsky.helloworld.HelloWorld;
  
 import static org.junit.Assert.*;
  
